@@ -41,6 +41,10 @@ header img {
     padding: 40px 50px;
 }
 
+.main h1 {
+    font-size: 2em;
+}
+
 .discription {
     margin: 20px 0;
     color: hsl(224, 23%, 55%);
@@ -52,7 +56,7 @@ header img {
     justify-content: space-between;
     align-items: center;
     margin: 0 auto;
-    padding: 30px 20px;
+    padding: 20px 20px;
     border-radius: 15px;
 }
 
@@ -67,6 +71,12 @@ header img {
 
 .music-icon {
     margin-right: 20px;
+}
+
+.annual-plan {
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
 }
 
 .plan {
@@ -105,6 +115,10 @@ header img {
 
 .cancel:hover {
     color: hsl(223, 47%, 23%);
+}
+
+.link a {
+    color: hsl(245, 75%, 52%);
 }
 
 .link a:hover {
